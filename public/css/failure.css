@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    margin: 10% 0 0 0;
+    background-color: #0C0D0E;
+}
+
+.retry {
+    background-color: #bda800;
+    color: #D1CDC7;
+    border-radius: 5%;
+    font-size: 25px;
+    border: 0;
+}
+
+.retry:hover {
+    background-color:	#dbc300;
+    color: #fff;
+    transition: 300ms;
+    cursor: pointer;
+}

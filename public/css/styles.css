@@ -8,7 +8,7 @@ body {
   align-items: center;
   padding-top: 40px;
   padding-bottom: 40px;
-  background-color: #0F1111;
+  background-color: #0C0D0E;
 }
 
 .form-signin {
@@ -38,7 +38,7 @@ body {
 
 .lastName {
   border-radius: 0;
-  margin-bottom: -1pxlabel;
+  margin-bottom: -1px;
 }
 
 .email {
@@ -49,18 +49,14 @@ body {
 
 .forum {
   color: #D1CDC7;
-  background-color: #0F1111;
-  border-color: #776E62;
+  background-color: #0C0D0E;
 }
 
 .forum:focus {
   color: #D1CDC7;
-  background-color: #0F1111;
+  background-color: #0C0D0E;
+  border-color: #013989;
 }
-
-/* .forum: { */
-  /* background-color: #0F1111; */
-/* } */
 
 .labels {
   color: #A9A9A9;
